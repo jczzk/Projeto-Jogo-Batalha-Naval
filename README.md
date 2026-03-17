@@ -31,7 +31,7 @@ Matriz 10x10: Implementação de uma matriz maior para representar o tabuleiro.
 Posicionamento de Navios na Diagonal: Adição de navios posicionados diagonalmente.
 Exibição do Tabuleiro Completo: O sistema mostrará o tabuleiro completo, indicando as posições ocupadas e livres.
 
-#🏅 Nível Mestre
+🏅 Nível Mestre
 
 No nível Mestre, o desafio se intensifica com a implementação de habilidades especiais representadas por matrizes específicas no tabuleiro.
 
