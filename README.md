@@ -1,10 +1,12 @@
 #⚠️ Importante!!!
+
 Você pode escolher qualquer um dos desafios para desenvolver. Sinta-se à vontade para começar pelo desafio que mais lhe interessa.
 
 Desafio Batalha Naval - Três Níveis de Complexidade
 Bem-vindo ao desafio "Batalha Naval"! Este projeto desafiará suas habilidades de programação utilizando vetores e matrizes para simular um jogo de Batalha Naval, dividido em três níveis: Novato, Aventureiro e Mestre. Em cada nível, novas funcionalidades serão adicionadas, tornando o desafio progressivamente mais complexo.
 
 #🏅 Nível Novato
+
 Neste nível inicial, você implementará a lógica básica de posicionamento de navios em um tabuleiro de Batalha Naval utilizando vetores bidimensionais.
 
 🚩 Objetivos:
@@ -17,6 +19,7 @@ Os valores serão inseridos manualmente por meio de variáveis no código.
 Após o posicionamento, o sistema deve exibir as coordenadas dos navios de forma clara e organizada.
 
 #🏅 Nível Aventureiro
+
 No nível Aventureiro, você expandirá o tabuleiro e adicionará mais navios, incluindo posicionamentos na diagonal.
 
 🆕 Diferença em relação ao Nível Novato:
@@ -29,6 +32,7 @@ Posicionamento de Navios na Diagonal: Adição de navios posicionados diagonalme
 Exibição do Tabuleiro Completo: O sistema mostrará o tabuleiro completo, indicando as posições ocupadas e livres.
 
 #🏅 Nível Mestre
+
 No nível Mestre, o desafio se intensifica com a implementação de habilidades especiais representadas por matrizes específicas no tabuleiro.
 
 🆕 Diferença em relação ao Nível Aventureiro:
