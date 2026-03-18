@@ -12,9 +12,9 @@ Neste nível inicial, você implementará a lógica básica de posicionamento de
 
 ### 🚩 Objetivos:
 
-Posicionamento dos Navios: O sistema deve simular a localização de dois navios no tabuleiro, um posicionado verticalmente e outro horizontalmente.
-Utilização de Vetores: Os navios serão posicionados utilizando vetores bidimensionais, com coordenadas X e Y.
-Exibição de Coordenadas: O sistema deve exibir as coordenadas de cada parte dos navios no console utilizando printf.
+**Posicionamento dos Navios**: O sistema deve simular a localização de dois navios no tabuleiro, um posicionado verticalmente e outro horizontalmente.<br>
+**Utilização de Vetores**: Os navios serão posicionados utilizando vetores bidimensionais, com coordenadas X e Y.<br>
+**Exibição de Coordenadas**: O sistema deve exibir as coordenadas de cada parte dos navios no console utilizando printf.
 
  ### 📥 Entrada de Dados:
  
@@ -30,14 +30,14 @@ No nível Aventureiro, você expandirá o tabuleiro e adicionará mais navios, i
 
  ### 🆕 Diferença em relação ao Nível Novato:
 
-**Tabuleiro 10x10**: O tabuleiro será expandido para uma matriz 10x10.
-**Posicionamento de Quatro Navios**: O sistema deverá posicionar quatro navios, incluindo dois na diagonal.
+**Tabuleiro 10x10**: O tabuleiro será expandido para uma matriz 10x10.<br>
+**Posicionamento de Quatro Navios**: O sistema deverá posicionar quatro navios, incluindo dois na diagonal.<br>
 **Exibição Completa do Tabuleiro**: O sistema exibirá toda a matriz, onde 0 indica uma posição sem navio e 3 indica uma posição ocupada.
 
  ### 🚩 Novas Funcionalidades:
 
-**Matriz 10x10**: Implementação de uma matriz maior para representar o tabuleiro.
-**Posicionamento de Navios na Diagonal**: Adição de navios posicionados diagonalmente.
+**Matriz 10x10**: Implementação de uma matriz maior para representar o tabuleiro.<br>
+**Posicionamento de Navios na Diagonal**: Adição de navios posicionados diagonalmente.<br>
 **Exibição do Tabuleiro Completo**: O sistema mostrará o tabuleiro completo, indicando as posições ocupadas e livres.
 
  ## 🏅 Nível Mestre
@@ -46,12 +46,12 @@ No nível Mestre, o desafio se intensifica com a implementação de habilidades 
 
  ### 🆕 Diferença em relação ao Nível Aventureiro:
  
- **Habilidades Especiais**: O sistema deve definir áreas de habilidades utilizando matrizes com padrões específicos: cone, cruz e octaedro.
+ **Habilidades Especiais**: O sistema deve definir áreas de habilidades utilizando matrizes com padrões específicos: cone, cruz e octaedro.<br>
 **Estruturas de Repetição Aninhadas**: Utilização de loops aninhados para percorrer e preencher as áreas afetadas pelas habilidades.
 
  ### 🚩 Novas Funcionalidades:
-**Matrizes de Habilidades**: Implementação de três matrizes para representar habilidades especiais no tabuleiro.
-**Padrões de Habilidade**: Criação de padrões específicos (cone, cruz, octaedro) para definir as áreas afetadas.
+**Matrizes de Habilidades**: Implementação de três matrizes para representar habilidades especiais no tabuleiro.<br>
+**Padrões de Habilidade**: Criação de padrões específicos (cone, cruz, octaedro) para definir as áreas afetadas.<br>
 **Exibição das Áreas Atingidas**: O sistema exibirá o tabuleiro com as áreas afetadas, utilizando 0 para áreas não afetadas e 1 para áreas afetadas.
 
 ## Exemplo de Saída:
@@ -84,14 +84,14 @@ Exemplo e comando: printf("%d ",matriz[y][x]);
 
 # 📋 Requisitos Funcionais Comuns
 
-**Entrada de Dados**: Os valores serão inseridos manualmente por meio de variáveis no código.
-**Utilização de Matrizes**: Os dados devem ser estruturados de maneira eficiente utilizando matrizes.
+**Entrada de Dados**: Os valores serão inseridos manualmente por meio de variáveis no código.<br>
+**Utilização de Matrizes**: Os dados devem ser estruturados de maneira eficiente utilizando matrizes.<br>
 **Exibição de Resultados**: Os resultados devem ser exibidos de forma clara e organizada.
 
 # 📌 Requisitos Não Funcionais Comuns
 
-**Performance**: O sistema deve executar operações de forma eficiente, sem atrasos perceptíveis.
-**Documentação**: O código deve ser bem documentado, com comentários claros sobre a função de cada parte do código.
+**Performance**: O sistema deve executar operações de forma eficiente, sem atrasos perceptíveis.<br>
+**Documentação**: O código deve ser bem documentado, com comentários claros sobre a função de cada parte do código.<br>
 **Manutenibilidade**: O código deve ser organizado e fácil de entender, facilitando futuras manutenções e expansões.
 
 Boa sorte no desenvolvimento deste desafio! Aproveite para aprimorar suas habilidades em vetores e matrizes enquanto progride pelos níveis.
