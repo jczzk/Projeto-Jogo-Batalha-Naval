@@ -43,7 +43,8 @@ No nível Aventureiro, você expandirá o tabuleiro e adicionará mais navios, i
 No nível Mestre, o desafio se intensifica com a implementação de habilidades especiais representadas por matrizes específicas no tabuleiro.
 
  ### 🆕 Diferença em relação ao Nível Aventureiro:
-**Habilidades Especiais**: O sistema deve definir áreas de habilidades utilizando matrizes com padrões específicos: cone, cruz e octaedro.
+ 
+ **Habilidades Especiais**: O sistema deve definir áreas de habilidades utilizando matrizes com padrões específicos: cone, cruz e octaedro.
 **Estruturas de Repetição Aninhadas**: Utilização de loops aninhados para percorrer e preencher as áreas afetadas pelas habilidades.
 
  ### 🚩 Novas Funcionalidades:
@@ -56,6 +57,7 @@ No nível Mestre, o desafio se intensifica com a implementação de habilidades 
 Exemplo e comando: printf("%d ",matriz[y][x]);
 
 ## Exemplo de saída de habilidade em cone:
+
 0 0 1 0 0
 
 0 1 1 1 0
@@ -63,6 +65,7 @@ Exemplo e comando: printf("%d ",matriz[y][x]);
 1 1 1 1 1
 
 ## Exemplo de saída de habilidade em octaedro:
+
 0 0 1 0 0
 
 0 1 1 1 0
@@ -70,6 +73,7 @@ Exemplo e comando: printf("%d ",matriz[y][x]);
 0 0 1 0 0
 
 ## Exemplo de saída de habilidade em cruz:
+
 0 0 1 0 0
 
 1 1 1 1 1
@@ -77,11 +81,13 @@ Exemplo e comando: printf("%d ",matriz[y][x]);
 0 0 1 0 0
 
 # 📋 Requisitos Funcionais Comuns
-Entrada de Dados: Os valores serão inseridos manualmente por meio de variáveis no código.
-Utilização de Matrizes: Os dados devem ser estruturados de maneira eficiente utilizando matrizes.
-Exibição de Resultados: Os resultados devem ser exibidos de forma clara e organizada.
+
+**Entrada de Dados**: Os valores serão inseridos manualmente por meio de variáveis no código.
+**Utilização de Matrizes**: Os dados devem ser estruturados de maneira eficiente utilizando matrizes.
+**Exibição de Resultados**: Os resultados devem ser exibidos de forma clara e organizada.
 
 # 📌 Requisitos Não Funcionais Comuns
+
 **Performance**: O sistema deve executar operações de forma eficiente, sem atrasos perceptíveis.
 **Documentação**: O código deve ser bem documentado, com comentários claros sobre a função de cada parte do código.
 **Manutenibilidade**: O código deve ser organizado e fácil de entender, facilitando futuras manutenções e expansões.
