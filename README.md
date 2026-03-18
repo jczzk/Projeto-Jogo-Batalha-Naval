@@ -56,7 +56,7 @@ No nível Mestre, o desafio se intensifica com a implementação de habilidades 
 
 ## Exemplo de Saída:
 
-Exemplo e comando: printf("%d ",matriz[y][x]);
+Exemplo e comando: printf("%d ",matriz[i][j]);
 
 ## Exemplo de saída de habilidade em cone:
 
